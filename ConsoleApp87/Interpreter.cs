@@ -11,20 +11,7 @@ namespace ConsoleApp87
 
     class InterpreterLiczbArabskich
     {
-        public void FunkcjaTestowa()
-        {
-            InterpreterSetek iSetek = new InterpreterSetek();
 
-
-            char[] x = iSetek.ZwrocReszte(8).ToArray();
-
-            foreach (var item in x)
-            {
-                Console.WriteLine(x);
-            }
-
-
-        }
       
         public virtual void interpretuj(ref int liczbaArabska, ref string wartosc)
         {
