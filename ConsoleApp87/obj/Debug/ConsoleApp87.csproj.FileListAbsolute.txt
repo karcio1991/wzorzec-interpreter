@@ -1,0 +1,6 @@
+C:\Users\test\source\repos\ConsoleApp87\ConsoleApp87\bin\Debug\ConsoleApp87.exe.config
+C:\Users\test\source\repos\ConsoleApp87\ConsoleApp87\bin\Debug\ConsoleApp87.exe
+C:\Users\test\source\repos\ConsoleApp87\ConsoleApp87\bin\Debug\ConsoleApp87.pdb
+C:\Users\test\source\repos\ConsoleApp87\ConsoleApp87\obj\Debug\ConsoleApp87.csprojAssemblyReference.cache
+C:\Users\test\source\repos\ConsoleApp87\ConsoleApp87\obj\Debug\ConsoleApp87.exe
+C:\Users\test\source\repos\ConsoleApp87\ConsoleApp87\obj\Debug\ConsoleApp87.pdb
